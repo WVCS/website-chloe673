@@ -1,5 +1,5 @@
 @charset "utf-8";
-/* CSS Document */
+
 
 body {
 	background-color: lemonchiffon;
@@ -9,8 +9,6 @@ h2 {
 	color: salmon;
 	text-decoration: wavy underline 2px gold;
 }
-
-/* Navigation Styling */
 
 nav {
 	background-color: salmon;
