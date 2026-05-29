@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: lemonchiffon;
+}
+
+h2 {
+	color: salmon;
+	text-decoration: wavy underline 2px gold;
+}
+
+/* Navigation Styling */
+
+nav {
+	background-color: salmon;
+	padding: 10px;
+	text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 15px;
+}
+
+nav a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+nav a:hover {
+	color: gold;
+}
+
+body {
+	background-color: lemonchiffon;
+}
+
+h2 {
+	color: salmon;
+	text-decoration: wavy underline 2px gold;
+	text-align: center;
+}CSP
+
+.project-container {
+	display: flex;
+	justify-content: center;
+	gap: 40px;
+	flex-wrap: wrap;
+}
+
+.project-box {
+	text-align: center;
+}
